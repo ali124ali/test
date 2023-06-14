@@ -9,5 +9,3 @@
 9. commit all staging changes 'git commit -m "..." '
 10. for see the difference between current status and one commit ago for just a file 'git diff HEAD^ file.txt '
 11.  for see the difference between current status and one commit ago for total git repository 'git diff HEAD^ '
-
- 
