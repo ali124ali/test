@@ -8,4 +8,5 @@
 8. staging all recent changes 'git add -A'
 9. commit all staging changes 'git commit -m "..." '
 10. for see the difference between current status and one commit ago for just a file 'git diff HEAD^ file.txt '
-11.  for see the difference between current status and one commit ago for total git repository 'git diff HEAD^ '
+1k1.  for see the difference between current status and one commit ago for total git repository 'git diff HEAD^ '
+just work with git new features ...
