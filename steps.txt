@@ -13,3 +13,6 @@ just work with git new features ...
 
 
 now i am learning git useful features
+11. create two new branches
+12. make new files in each branch
+13. 
